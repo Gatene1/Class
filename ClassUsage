@@ -29,7 +29,7 @@ public class ClassUsage : MonoBehaviour {
             new Villians("Phantom Limb", 35, 1.2f),
             new Villians("Baron Underbhite", 10, .5f),
             new Villians("Doctor Girlfriend", 13, 34.2f),
-            new Villians("Torrid", 3, 1.0f)
+            new Villians("Torrid", 3,  1.0f)
         };
     }
 }
