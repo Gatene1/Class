@@ -2,14 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RileyD_Villians {
+public class Villians {
 
     string name;
     int yrsInVilliany;
     float dmgInMill;
 
     //Constructor
-    public RileyD_Villians(string n, int y, float d)
+    public Villians(string n, int y, float d)
     {
         name = n;
         yrsInVilliany = y;
