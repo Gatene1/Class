@@ -9,7 +9,7 @@ public class Villians {
     float dmgInMill;
 
     //Constructor
-    public Villians(string n, int y, float d)
+    public Villians(string n, int y,  float d)
     {
         name = n;
         yrsInVilliany = y;
